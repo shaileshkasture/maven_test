@@ -1,1 +1,1 @@
-#maven_test
+#maven_test_automation
