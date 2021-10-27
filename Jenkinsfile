@@ -22,6 +22,6 @@ pipeline {
                 sh "archiveArtifacts '**/target/*.jar"
             }
         }
-        
+    }   
 }
 
